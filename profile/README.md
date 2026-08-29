@@ -13,9 +13,11 @@ Create fixed product bundles from simple WooCommerce products or exact variation
 - [Verified website mirror](https://we-wp.com/downloads/aim-advanced-bundles/latest)
 - [Source code and releases](https://github.com/we-wp/advanced-bundles-for-woocommerce)
 - [Live demo](https://demo.we-wp.com/plugins/advanced-bundles/)
+- [Step-by-step bundle setup guide](https://we-wp.com/guides/how-to-create-woocommerce-product-bundles)
 - [Documentation](https://we-wp.com/docs)
 
 The Free plugin sends no telemetry and makes no external requests.
+If it solves a real store need, star the [Advanced Bundles repository](https://github.com/we-wp/advanced-bundles-for-woocommerce) to save the project and help other WooCommerce users find it.
 
 ### Advanced Invoices for WooCommerce
 
