@@ -8,7 +8,7 @@ WooCommerce plugins built and maintained by UAB BusinessPress.
 
 Create fixed product bundles from simple WooCommerce products or exact variations. Every included product keeps its own price, stock, tax, shipping, and refund data.
 
-- [Product page](https://we-wp.com/plugins/aim-advanced-bundles)
+- [Product page](https://we-wp.com/plugins/advanced-bundles-for-woocommerce)
 - [Download Free 0.1.0 from GitHub](https://github.com/we-wp/advanced-bundles-for-woocommerce/releases/download/v0.1.0/aim-advanced-bundles-0.1.0.zip)
 - [Verified website mirror](https://we-wp.com/downloads/aim-advanced-bundles/latest)
 - [Source code and releases](https://github.com/we-wp/advanced-bundles-for-woocommerce)
